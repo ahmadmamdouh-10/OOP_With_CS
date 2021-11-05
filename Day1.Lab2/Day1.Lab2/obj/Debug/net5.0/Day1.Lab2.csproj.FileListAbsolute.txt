@@ -1,0 +1,16 @@
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\obj\Debug\net5.0\Day1.Lab2.csproj.AssemblyReference.cache
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\obj\Debug\net5.0\Day1.Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\obj\Debug\net5.0\Day1.Lab2.AssemblyInfoInputs.cache
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\obj\Debug\net5.0\Day1.Lab2.AssemblyInfo.cs
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\obj\Debug\net5.0\Day1.Lab2.csproj.CoreCompileInputs.cache
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\bin\Debug\net5.0\Day1.Lab2.exe
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\bin\Debug\net5.0\Day1.Lab2.deps.json
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\bin\Debug\net5.0\Day1.Lab2.runtimeconfig.json
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\bin\Debug\net5.0\Day1.Lab2.runtimeconfig.dev.json
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\bin\Debug\net5.0\Day1.Lab2.dll
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\bin\Debug\net5.0\ref\Day1.Lab2.dll
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\bin\Debug\net5.0\Day1.Lab2.pdb
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\obj\Debug\net5.0\Day1.Lab2.dll
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\obj\Debug\net5.0\ref\Day1.Lab2.dll
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\obj\Debug\net5.0\Day1.Lab2.pdb
+C:\Users\a-mamdouh\source\repos\Day1.Lab2\Day1.Lab2\obj\Debug\net5.0\Day1.Lab2.genruntimeconfig.cache
